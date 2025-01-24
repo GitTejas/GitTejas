@@ -26,12 +26,6 @@
 
 ---
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🌍 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/tejasnampalli">
