@@ -87,11 +87,20 @@
 ---
 
 ### 📊 Gaming is fun!
-<h3 align="center">🎮 Typing Challenge 🎮</h3>
+<h3 align="center">💡 Fun Quiz: How Well Do You Know Tejas? 💡</h3>
+
 <p align="center">
-  Test your speed! Type this code snippet: <br>
-  <code>const sayHello = () => console.log('Hello, world!');</code>
+  🚀 What's Tejas's favorite programming language?<br>
+  A) JavaScript<br>
+  B) Python<br>
+  C) C++<br>
+  D) Ruby
 </p>
+
+<p align="center">
+  🤔 Think you know? Hover here for the answer: <span style="font-weight: bold; color: #00ff00;">Python! 🐍</span>
+</p>
+
 
 <p align="center">
   Ready? Start typing and check the time! 🕒
