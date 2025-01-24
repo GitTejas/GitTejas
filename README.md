@@ -21,8 +21,6 @@
 
 ### 🌟 **Stats & Achievements**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GitTejas&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GitTejas&theme=radical" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitTejas&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -34,15 +32,19 @@
 
 ---
 
-### 🌐 **Connect with Me**
+### 🌍 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/tejasnampalli" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" style="margin: 10px;">
   </a>
   <a href="https://medium.com/@nampalli" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="40" width="40" />
+    <img src="https://img.icons8.com/color/48/000000/medium-logo--v1.png" alt="Medium" style="margin: 10px;">
+  </a>
+  <a href="https://github.com/GitTejas" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub" style="margin: 10px;">
   </a>
 </p>
+
 
 ---
 
