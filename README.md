@@ -86,18 +86,6 @@
 
 ---
 
-### 📊 Gaming is fun!
-<h3 align="center">🌍 Where I’ve Coded From 🌍</h3>
-
-<p align="center">
-  <a href="https://github.com/tiphedor/globe.gl">
-    <img src="https://github.com/tiphedor/globe.gl/blob/main/examples/simple-globe.gif" alt="3D Globe" width="400">
-  </a>
-</p>
-
-
----
-
 ### 🔢 Visitor Count
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GitTejas&label=Profile%20Views&color=00ff00&style=flat" alt="Profile Views" />
