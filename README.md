@@ -96,15 +96,6 @@
 </p>
 
 
-<p align="center">
-  🤔 Think you know? Hover here for the answer: <span style="font-weight: bold; color: #00ff00;">Python! 🐍</span>
-</p>
-
-
-<p align="center">
-  Ready? Start typing and check the time! 🕒
-</p>
-
 ---
 
 ### 🔢 Visitor Count
