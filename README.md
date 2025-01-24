@@ -35,15 +35,17 @@
 ### 🌍 **Connect With Me**
 <p align="center">
   <a href="https://linkedin.com/in/tejasnampalli">
-    <img src="https://img.icons8.com/color/48/00ff00/linkedin-circled--v1.png" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://medium.com/@nampalli">
-    <img src="https://img.icons8.com/color/48/00ff00/medium-logo--v1.png" alt="Medium">
+  <a href="https://medium.com/@nampalli" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
   </a>
+
   <a href="https://github.com/GitTejas">
-    <img src="https://img.icons8.com/color/48/00ff00/github--v1.png" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
+
 
 
 ---
