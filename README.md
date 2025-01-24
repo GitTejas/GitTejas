@@ -87,15 +87,14 @@
 ---
 
 ### 📊 Gaming is fun!
-<h3 align="center">💡 Fun Quiz: How Well Do You Know Tejas? 💡</h3>
+<h3 align="center">🌍 Where I’ve Coded From 🌍</h3>
 
 <p align="center">
-  🚀 What's Tejas's favorite programming language?<br>
-  A) JavaScript<br>
-  B) Python<br>
-  C) C++<br>
-  D) Ruby
+  <a href="https://github.com/tiphedor/globe.gl">
+    <img src="https://github.com/tiphedor/globe.gl/blob/main/examples/simple-globe.gif" alt="3D Globe" width="400">
+  </a>
 </p>
+
 
 <p align="center">
   🤔 Think you know? Hover here for the answer: <span style="font-weight: bold; color: #00ff00;">Python! 🐍</span>
