@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **JavaScript, React, Python, Flask, HTML, CSS**
 
-- 📫 How to reach me **TSNampalli@gmail.com**
-
 - ⚡ Fun fact **I love Audio Engineering**
 
 ### Blogs posts
