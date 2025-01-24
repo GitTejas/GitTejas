@@ -86,9 +86,15 @@
 
 ---
 
-### 📊 Contribution Graph
+### 📊 Gaming is fun!
+<h3 align="center">🎮 Typing Challenge 🎮</h3>
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=GitTejas&bg_color=1a1b27&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Contribution Graph" />
+  Test your speed! Type this code snippet: <br>
+  <code>const sayHello = () => console.log('Hello, world!');</code>
+</p>
+
+<p align="center">
+  Ready? Start typing and check the time! 🕒
 </p>
 
 ---
